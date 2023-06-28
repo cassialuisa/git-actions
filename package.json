@@ -1,0 +1,12 @@
+{
+  "name": "github-action",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "cassialuisa <cassia.pedrosa@rarolabs.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.4.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
